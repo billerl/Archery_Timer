@@ -1,0 +1,34 @@
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\billerl\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\billerl\Desktop\VS2017\ARCHERY TIMER\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
